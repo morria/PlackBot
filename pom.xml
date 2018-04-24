@@ -13,11 +13,6 @@
   </properties>
   <repositories>
       <repository>
-          <id>etsy</id>
-          <name>Etsy Archiva</name>
-          <url>http://ivy.etsycorp.com/repository/snapshots/</url>
-      </repository>
-      <repository>
           <id>centeral</id>
           <name>Maven Central</name>
           <url>http://central.maven.org/maven2/</url>
