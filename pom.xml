@@ -18,13 +18,6 @@
           <url>http://central.maven.org/maven2/</url>
       </repository>
   </repositories>
-  <distributionManagement>
-      <snapshotRepository>
-          <id>etsy</id>
-          <name>Etsy Archiva</name>
-          <url>http://ivy.etsycorp.com/repository/snapshots/</url>
-      </snapshotRepository>
-  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
